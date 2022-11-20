@@ -76,4 +76,3 @@
 
 ![Screenshot 2022-11-20 at 16 02 01](https://user-images.githubusercontent.com/114099418/202909532-fe8c97ea-8d38-4000-b988-aceaa04c5e76.png)
 
-Thanks to this my local repozitory ....
